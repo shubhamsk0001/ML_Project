@@ -1,1 +1,8 @@
+numpy
+ipykernel
+pandas
 Flask
+scikit-learn
+
+
+-e .
