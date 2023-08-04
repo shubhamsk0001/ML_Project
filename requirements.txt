@@ -1,8 +1,8 @@
 numpy
-ipykernel
 pandas
 Flask
 scikit-learn
-
+dill
+xgboost
 
 -e .
